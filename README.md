@@ -21,7 +21,7 @@ Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de clo
 
 ## 📁 Acesso ao projeto  
 
-[Veja o projeto final do curso em funcionamento]().
+[Veja o projeto final do curso em funcionamento](https://lshv04.github.io/DioHBO/).
 
 Neste repositório você tem acesso a todo o material produzido no projeto.
 
